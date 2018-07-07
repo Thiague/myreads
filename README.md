@@ -1,4 +1,4 @@
-# Projeto myreads Udacity Nanodegree React
+Projeto myreads Udacity Nanodegree React
 
 Para iniciar a aplicação utilize
 
@@ -10,7 +10,7 @@ A Pagina inicial mostra três prateleiras para os livros.
 
 É possivel mover os livros entres as prateleiras na pagina principal, em cada um dos livros.
 
-Pesquisa A pagina search tem um campo que permite a busca de livros para serem adicionados as prateleiras “currently reading”, “want to read”, ou “read”. Quando um item é adicionado a uma das prateleiras na pagina search, e o usuário retorna a pagina principal, o livro será mostrado nessa prateleira na pagina inicial.
+Pesquisa A pagina search tem um campo que permite a busca de livros para serem adicionados as prateleiras “currently reading”, “want to read”, ou “read”. Quando um item é adicionado a uma das prateleiras na pagina search, e o usuário retorna a pagina principal, o livro será mostrado nessa prateleira na pagina inicial. 
 
 Rotas
 
